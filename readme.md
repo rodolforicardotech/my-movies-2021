@@ -17,3 +17,14 @@ O banco de dados veio de uma lista que criei no [IMDB](http://www.imdb.com), que
 12. o número de documentários
 13. o número de séries
 14. Filmes assistidos por mês
+
+# Primeiros passos
+### Baixando o arquivo do site:
+
+
+### Criando um ambiente virtual utilizando o Anaconda:
+
+
+### Utilizando o Jupyter Lab para os códigos:
+
+### Aquele link com o GitHub
