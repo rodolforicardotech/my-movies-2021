@@ -38,11 +38,23 @@ O banco de dados veio de uma lista que criei no [IMDB](http://www.imdb.com), que
 
 # Primeiros passos
 ### Baixando o arquivo do site:
+O site IMDb possui diversas informações relacionadas à produções cinematográficas.
+No site, é possível criar suas próprias listas. Após criá-las, é possível exportar no formato .csv.
 
 
 ### Criando um ambiente virtual utilizando o Anaconda:
+Criei um ambiente virtual no Anaconda para o projeto:<br>
+```conda create -n movies```
 
 
-### Utilizando o Jupyter Lab para os códigos:
+
+### Utilizando o Jupyter Lab para os códigos:<br>
+Na pasta do repositório, rodei o Jupyter Lab (IDE que escolhi para esse primeiro projeto).
+```jupyter lab```
 
 ### Aquele link com o GitHub
+Linkei este repositório com a minha máquina local e todas as modificações subo para o GitHub.
+
+### Criação de Issues
+Caso você tenha alguma sugestão, pode criar uma issue!<br>
+Estou adicionando lá as novas análises e próximos passos do projeto.
