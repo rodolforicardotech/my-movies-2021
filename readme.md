@@ -15,7 +15,7 @@ O banco de dados veio de uma lista que criei no [IMDB](http://www.imdb.com), que
 
 6.Qual o mais antigo ✅
 
-7.Quais os gêneros
+7.Quais os gêneros ✅
 
 8.Quais os mais votados ✅
 
@@ -25,15 +25,15 @@ O banco de dados veio de uma lista que criei no [IMDB](http://www.imdb.com), que
 
 11.A nota média do IMDB ✅
 
-12.Relação votos x média
+12.Relação votos x média 
 
-13.Quais o diretores
+13.Quais o diretores (resolvi remover)
 
 14.O número de documentários
 
 15.O número de séries
 
-16.Filmes assistidos por mês
+16.Filmes assistidos por mês ✅
 
 
 # Primeiros passos
