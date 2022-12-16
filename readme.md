@@ -27,11 +27,11 @@ O banco de dados veio de uma lista que criei no [IMDB](http://www.imdb.com), que
 
 12.Relação votos x média 
 
-13.Quais o diretores (resolvi remover)
+13.Quais o diretores (resolvi remover) ✅
 
-14.O número de documentários
+14.O número de documentários ✅
 
-15.O número de séries
+15.O número de séries ✅
 
 16.Filmes assistidos por mês ✅
 
